@@ -59,7 +59,12 @@ Libraries used: </br>**- owner (For Configuration Management), </br>- Lombok (Cl
 
 #### Github Workflow Execution
 
-
+![alt text](https://i.ibb.co/n78bF6P/G1.jpg)
 
 #### Allure Report
 
+![alt text](https://i.ibb.co/6XtRTrX/A1.jpg)
+
+![alt text](https://i.ibb.co/QDFprQw/A2.jpg)
+
+![alt text](https://i.ibb.co/2M855PR/A3.jpg)
